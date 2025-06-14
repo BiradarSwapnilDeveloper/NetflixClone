@@ -5,7 +5,7 @@ A responsive Netflix clone built using HTML, CSS, and JavaScript. This project m
 
 ## 🔥 Live Demo
 
-[👉 Click here to see the live demo]( https://netfli-xclone-biradarswapnil.netlify.app/ )  
+[👉 Click here to see the live demo]( https://ui-designpracticebiradar.netlify.app/ )  
 
 
 ## 🛠️ Tech Stack
